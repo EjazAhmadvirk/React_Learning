@@ -1,0 +1,7 @@
+React Js
+why to learn React ?
+ 	hybe, job trend, buld UI
+ 	makes easy to manage & build complex fronted
+when should I learn Read?
+ 	After mastering JS
+ 	most project don't need react in initial phase
